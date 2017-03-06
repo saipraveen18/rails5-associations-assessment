@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  programmer: MyString
+  experience: 1
+  is_senior: 1
+  friend_id: 1
+  programmer: one
+
+two:
+  programmer: MyString
+  experience: 1
+  is_senior: 1
+  friend_id: 1
+  programmer: two
